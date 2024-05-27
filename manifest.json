@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Time Tracker",
+  "version": "1.0",
+  "description": "A simple time tracker extension",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
